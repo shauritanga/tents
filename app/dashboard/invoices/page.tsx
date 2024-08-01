@@ -1,3 +1,3 @@
-export default function Invoices(){
-    return <p>Invoices Page</p>
+export default function Invoices() {
+  return <p>Invoices Page</p>;
 }
